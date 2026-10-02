@@ -149,7 +149,7 @@ module tb_e4m3_multiplier_parallel;
 
         valid_in = 0;
 
-        #30;
+        
 
         $finish;
 
